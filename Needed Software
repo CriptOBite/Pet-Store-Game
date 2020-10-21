@@ -1,0 +1,3 @@
+please note in order to run the pet store jar file successfully on a computer you must first have a copy of the Oracle jdk.
+if you do not have the Oracle jdk installed please download the jdk from the official Oracle software website and then proceed to run the program.
+if you do not install the Oracle jdk correctly or if you try to run the program without the jdk installed The program will either not load successfully or will not load at all.
